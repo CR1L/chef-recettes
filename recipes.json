@@ -93,6 +93,31 @@
       "servings": 17,
       "status": "tested-approved",
       "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/kanelbullar.md"
+    },
+    {
+      "id": "crepes",
+      "title_fr": "Crêpes (pâte des plus raffinées)",
+      "title_en": "French crêpes",
+      "category": "dessert / goûter",
+      "tags": [
+        "végétarien"
+      ],
+      "servings": 6,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/crepes.md"
+    },
+    {
+      "id": "bolognaise-longue-cuisson",
+      "title_fr": "Bolognaise longue cuisson",
+      "title_en": "Slow-cooked bolognese",
+      "category": "plat / sauce",
+      "tags": [
+        "se congèle",
+        "batch cooking"
+      ],
+      "servings": 7,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/bolognaise-longue-cuisson.md"
     }
   ]
 }

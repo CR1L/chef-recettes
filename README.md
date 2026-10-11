@@ -15,3 +15,5 @@ Index machine : [recipes.json](recipes.json) · Mis à jour : 2026-10-11
 | [Petits gâteaux compote-chocolat](recettes/petits-gateaux-compote-chocolat.md) | Applesauce chocolate-chunk muffins | dessert / goûter | ✅ testée et approuvée |
 | [Brioche tressée moelleuse](recettes/brioche-tressee.md) | Soft braided brioche | viennoiserie | ✅ testée et approuvée |
 | [Kanelbullar (brioches à la cannelle)](recettes/kanelbullar.md) | Swedish cinnamon buns (kanelbullar) | viennoiserie | ✅ testée et approuvée |
+| [Crêpes (pâte des plus raffinées)](recettes/crepes.md) | French crêpes | dessert / goûter | ✅ testée et approuvée |
+| [Bolognaise longue cuisson](recettes/bolognaise-longue-cuisson.md) | Slow-cooked bolognese | plat / sauce | ✅ testée et approuvée |
