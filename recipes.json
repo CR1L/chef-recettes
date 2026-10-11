@@ -2,8 +2,7 @@
   "title": "Carnet de recettes testées et approuvées / Tested & approved recipe notebook",
   "updated": "2026-10-11",
   "status_legend": {
-    "tested-approved": "testée et approuvée",
-    "tested": "testée, pas encore approuvée"
+    "tested-approved": "testée et approuvée"
   },
   "recipes": [
     {
@@ -82,18 +81,6 @@
       "servings": 8,
       "status": "tested-approved",
       "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/brioche-tressee.md"
-    },
-    {
-      "id": "the-glace-peche-verveine",
-      "title_fr": "Thé glacé pêche, verveine et menthe",
-      "title_en": "Peach, verbena and mint iced tea",
-      "category": "boisson",
-      "tags": [
-        "sans alcool"
-      ],
-      "servings": 4,
-      "status": "tested",
-      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/the-glace-peche-verveine.md"
     }
   ]
 }

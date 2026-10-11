@@ -14,4 +14,3 @@ Index machine : [recipes.json](recipes.json) · Mis à jour : 2026-10-11
 | [Gratin de courgettes de maman](recettes/gratin-courgettes-maman.md) | Mum's courgette gratin | plat / accompagnement | ✅ testée et approuvée |
 | [Petits gâteaux compote-chocolat](recettes/petits-gateaux-compote-chocolat.md) | Applesauce chocolate-chunk muffins | dessert / goûter | ✅ testée et approuvée |
 | [Brioche tressée moelleuse](recettes/brioche-tressee.md) | Soft braided brioche | viennoiserie | ✅ testée et approuvée |
-| [Thé glacé pêche, verveine et menthe](recettes/the-glace-peche-verveine.md) | Peach, verbena and mint iced tea | boisson | 🧪 testée |
