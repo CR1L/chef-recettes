@@ -81,6 +81,18 @@
       "servings": 8,
       "status": "tested-approved",
       "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/brioche-tressee.md"
+    },
+    {
+      "id": "kanelbullar",
+      "title_fr": "Kanelbullar (brioches à la cannelle)",
+      "title_en": "Swedish cinnamon buns (kanelbullar)",
+      "category": "viennoiserie",
+      "tags": [
+        "végétarien"
+      ],
+      "servings": 17,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/kanelbullar.md"
     }
   ]
 }
