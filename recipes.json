@@ -1,6 +1,10 @@
 {
   "title": "Carnet de recettes testées et approuvées / Tested & approved recipe notebook",
   "updated": "2026-10-11",
+  "status_legend": {
+    "tested-approved": "testée et approuvée",
+    "tested": "testée, pas encore approuvée"
+  },
   "recipes": [
     {
       "id": "taboule-agrumes",
@@ -29,16 +33,55 @@
       "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/invisible-pommes.md"
     },
     {
-      "id": "kale-lardons-oeuf",
-      "title_fr": "Kale sauté aux lardons et œuf au plat",
-      "title_en": "Sautéed kale with bacon and fried egg",
-      "category": "plat",
+      "id": "pain-cocotte-nuit",
+      "title_fr": "Pain cocotte à la levure, nuit au frigo",
+      "title_en": "Overnight no-knead Dutch-oven bread",
+      "category": "pain",
       "tags": [
-        "rapide"
+        "végétalien",
+        "sans pétrissage"
       ],
-      "servings": 2,
+      "servings": 1,
       "status": "tested-approved",
-      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/kale-lardons-oeuf.md"
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/pain-cocotte-nuit.md"
+    },
+    {
+      "id": "gratin-courgettes-maman",
+      "title_fr": "Gratin de courgettes de maman",
+      "title_en": "Mum's courgette gratin",
+      "category": "plat / accompagnement",
+      "tags": [
+        "végétarien",
+        "recette familiale"
+      ],
+      "servings": 5,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/gratin-courgettes-maman.md"
+    },
+    {
+      "id": "petits-gateaux-compote-chocolat",
+      "title_fr": "Petits gâteaux compote-chocolat",
+      "title_en": "Applesauce chocolate-chunk muffins",
+      "category": "dessert / goûter",
+      "tags": [
+        "végétarien",
+        "peu sucré"
+      ],
+      "servings": 10,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/petits-gateaux-compote-chocolat.md"
+    },
+    {
+      "id": "brioche-tressee",
+      "title_fr": "Brioche tressée moelleuse",
+      "title_en": "Soft braided brioche",
+      "category": "viennoiserie",
+      "tags": [
+        "végétarien"
+      ],
+      "servings": 8,
+      "status": "tested-approved",
+      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/brioche-tressee.md"
     },
     {
       "id": "the-glace-peche-verveine",
@@ -49,20 +92,8 @@
         "sans alcool"
       ],
       "servings": 4,
-      "status": "tested-approved",
+      "status": "tested",
       "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/the-glace-peche-verveine.md"
-    },
-    {
-      "id": "gratin-blettes",
-      "title_fr": "Gratin de blettes à la béchamel",
-      "title_en": "Swiss chard gratin with béchamel",
-      "category": "plat / accompagnement",
-      "tags": [
-        "végétarien"
-      ],
-      "servings": 4,
-      "status": "tested-approved",
-      "url": "https://raw.githubusercontent.com/CR1L/chef-recettes/main/recettes/gratin-blettes.md"
     }
   ]
 }

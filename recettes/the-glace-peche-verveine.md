@@ -1,6 +1,6 @@
 # Thé glacé pêche, verveine et menthe / Peach, verbena and mint iced tea
 
-**Statut : testée et approuvée** · 1 litre · 10 min + 8 à 12 h d'infusion à froid · Sans théine (selon l'infusion choisie)
+**Statut : testée** (pas encore approuvée) · 1 litre · 10 min + 8 à 12 h d'infusion à froid · Sans théine (selon l'infusion choisie)
 Dans l'esprit des thés glacés légers des hôtels du Luberon.
 
 ## Ingrédients
